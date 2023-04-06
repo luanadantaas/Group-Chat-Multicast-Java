@@ -4,7 +4,7 @@
 Considere a criação de grupos que funcione como um tipo de chat, onde os
 interessados em um determinado tópico possam trocar mensagens. Essas mensagens devem
 ser enviadas como datagramas por meio de sockets Multicast.
-## Para isso, também considere que:
+Para isso, também considere que:
 ### a) Há apenas dois Tópicos possíveis:
 #### ● Entretenimento
 #### ● Esportes
