@@ -44,6 +44,6 @@ terminal.
 #### ● Um determinado usuário deve receber mensagens apenas do tópico ao qual se
 inscreveu.
 
-# Como rodar o codigo:
-## fazer o download do zip
-## simular a entrada dos usuarios abrindo diferentes terminais e rodando o codigo simultaneamente
+### Como rodar o codigo:
+#### ● fazer o download do zip
+#### ● simular a entrada dos usuarios abrindo diferentes terminais e rodando o codigo simultaneamente
